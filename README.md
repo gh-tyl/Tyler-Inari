@@ -1,7 +1,22 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - Faculty of Data Science, Musashino University -
-- 🌱 I’m currently learning Python, JavaScript, Docker and etc ...
+<!-- - 🔭 I’m currently working on - Faculty of Data Science, Musashino University -
+- 🌱 I’m currently learning Python, JavaScript, Docker and etc ... -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Inari)](https://github.com/Tyler-Inari/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Inari&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Inari&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Inari&show_icons=true)
+
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tyler-Inari)](https://github.com/Tyler-Inari/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tyler-Inari&theme=onedark)](https://github.com/Tyler-Inari/github-profile-trophy)
+
+
+
 
 <p align="left"> 
   <a href="https://github.com/Tyler-Inari/Tyler-Inari/">
