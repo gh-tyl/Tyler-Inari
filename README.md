@@ -7,7 +7,7 @@
   <a href="https://github.com/Tyler-Inari">
     <img height="20" src="https://img.shields.io/github/followers/Tyler-Inari?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/yodaka_ay">
+  <a href="http://twitter.com/main_tyl">
     <img height="20" src="https://img.shields.io/twitter/follow/yodaka_ay?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/yodaka_ay">
